@@ -2,16 +2,22 @@
 Together with Claude, I have been building a GPS that is compatible with your live route in ETS2. 
 See fuel levels, sleep and rest timer, income and more!
 
+
 Currently this is only made for the base game. After enough support, I'll expand this for the DLC's, and possibly also make a version for ATS!
 
 
+
 *NOTE: This builds on the ETS2 / ATS telemetry service.*
+
 *Download that here: https://github.com/Funbit/ets2-telemetry-server.git*
 
+
 The website link: https://kzmtm.github.io/EuroTruckSim-2-external-GPS/
+
 *NOTE: The program only connects with the telemetry service after details are recieved.*
 *This means that you need to click "Drive" in game for the program to display the info.*
 *-> For editing the program, make sure to do this as well to see results instead of only connecting the telemetry service.*
+
 
 
 # Licensing
