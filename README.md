@@ -8,7 +8,6 @@ Currently this is only made for the base game. After enough support, I'll expand
 
 
 *NOTE: This builds on the ETS2 / ATS telemetry service.*
-
 *Download that here: https://github.com/Funbit/ets2-telemetry-server.git*
 
 
